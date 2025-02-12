@@ -10,7 +10,7 @@
 <ul>
   <li>🏩 BSIT, University of Science and Technology of Southern Philippines, Cagayan De Oro City </li>
   <li>🧠 Currently learning <strong> HTML, CSS, JavaScript, <strong>C, Python, Java </strong></li>
-  <li>🌷 Currently Working on: <a href="https://github.com/Ariiijen/Python-Language.git"><strong>Learning Banking Program </strong></a></li> 
+  <li>🌷 Currently Working on: <a href="[https://github.com/Ariiijen/Python-Language.git]"><strong>Learning Banking Program </strong></a></li> 
   <li>💌 Ask me about <strong>C, Python, HTML and CSS, Figma, Networking </strong></li>
   <li>📫 How to reach me: <a href="mailto:espragera.allyza@gmail.com">espragera.allyza@gmail.com</a></li>
 </ul>
