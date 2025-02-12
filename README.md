@@ -1,5 +1,5 @@
 <h1 align="center">𝓐𝓻𝓲𝓲𝓲𝓳𝓮𝓷</h1>
-<h3 align="center">🎀🩰𝗜'𝗺 𝗷𝘂𝘀𝘁 𝗮 𝗴𝗶𝗿𝗹 🎀🩰</h3>
+<h3 align="center">🎀🩰𝗜'𝗺 𝗷𝘂𝘀𝘁 𝗮 𝗴𝗶𝗿𝗹🩰🎀</h3>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/d9mkbc1QkvBnHthaQp/giphy.gif?cid=ecf05e471i4aaqz2p45ydy9cxpd4ok3zqpatww3a9gehwu2a&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramiruuu&label=Profile%20views&color=ff66cc&style=flat" alt="Ariiijen" /> </p>
@@ -50,7 +50,7 @@ Explore my professional experiences on [YouTube](https://www.youtube.com/@nce.al
 <h4 align="center">If this section doesn't load, just hit refresh and let's keep the energy flowing!</h1>
 
 
-# 💻 Tech Stack:
+# 💻👩🏻‍💻 Tech Stack:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ariiijen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
