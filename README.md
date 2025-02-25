@@ -1,5 +1,5 @@
 <h1 align="center">𝓐𝓻𝓲𝓲𝓲𝓳𝓮𝓷</h1>
-<h3 align="center">୨ৎ𝗜'𝗺 𝗷𝘂𝘀𝘁 𝗮 𝗴𝗶𝗿𝗹୨ৎ</h3>
+<h3 align="center">୨ৎ 𝗜'𝗺 𝗷𝘂𝘀𝘁 𝗮 𝗴𝗶𝗿𝗹 ୨ৎ</h3>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/d9mkbc1QkvBnHthaQp/giphy.gif?cid=ecf05e471i4aaqz2p45ydy9cxpd4ok3zqpatww3a9gehwu2a&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramiruuu&label=Profile%20views&color=ff66cc&style=flat" alt="Ariiijen" /> </p>
