@@ -4,11 +4,9 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
 </div>
 
-<h2 align="center">Aspiring Web Designer</h2>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F744C9&vCenter=true&width=435&lines=Aspiring+Web+Designer;Information+Technology" alt="Typing SVG" /> </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F744C9&center=true&vCenter=true&width=435&lines=Aspiring+Web+Designer;Information+Technology" alt="Typing SVG" /></a>
 </div>
 
 
@@ -48,36 +46,30 @@ Explore my professional experiences on [YouTube](https://www.youtube.com/@nce.al
 
 <h4 align="center">Let's connect and share knowledge, ideas, and inspiration. I'm always open to exciting opportunities!</h4>
 
-<p align="center">
-  <h2> 🛠️ Languages & Tools</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mysql,figma,github,kali,pycharm,vscode,wordpress,linux,typescript,discord,gmail,php&perline=7" />
-  </a>
-</p>
-
-<h1 align="center">⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻</h1>
-<h1 align="center">Random Shits</h1>
+## Technologies Stacks
 <div align="center">
+<!-- Animated Icons -->
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+</div>
 
 <h4 align="center">If this section doesn't load, just hit refresh and let's keep the energy flowing!</h1>
 
-
-# 💻 Tech Stack:
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ariiijen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ariiijen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariiijen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ariiijen&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ariiijen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=Ariiijen&icon=7&color=10)](https://visitcount.itsvg.in)
 
