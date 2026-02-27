@@ -1,5 +1,17 @@
-<h1 align="center">𝓐𝓻𝓲𝓲𝓲𝓳𝓮𝓷</h1>
-<h3 align="center">୨ৎ 𝗜'𝗺 𝗷𝘂𝘀𝘁 𝗮 𝗴𝗶𝗿𝗹 ୨ৎ</h3>
+![Header](./github-banner-profile.png)
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+</div>
+
+<h2 align="center">Aspiring Web Designer</h2>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F744C9&vCenter=true&width=435&lines=Aspiring+Web+Designer;Information+Technology" alt="Typing SVG" /> </a>
+</div>
+
+
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/d9mkbc1QkvBnHthaQp/giphy.gif?cid=ecf05e471i4aaqz2p45ydy9cxpd4ok3zqpatww3a9gehwu2a&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramiruuu&label=Profile%20views&color=ff66cc&style=flat" alt="Ariiijen" /> </p>
